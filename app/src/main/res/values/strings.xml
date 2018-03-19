@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Suntist</string>
+
+    <string name="appName">SUNTIST</string>
+
+    <string name="enter_your_name">Enter your name</string>
+    <string name="enter_your_telephone_number">Enter your telephone number</string>
+
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+
+    <string name="submit">Submit</string>
+    <string name="dialer">Opening Dialer pad</string>
+
+
+    <string name="welcome">Welcome,</string>
+
+    <string name="facebook_app_id">1193857320717320</string>
+    <string name="fb_login_protocol_scheme">fb1193857320717320</string>
+</resources>
